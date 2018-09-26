@@ -11,6 +11,7 @@ namespace HELLOGIRL
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git1");
+            Console.WriteLine("ny ændring")
             Console.ReadLine();
     }
 }
